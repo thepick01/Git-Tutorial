@@ -7,6 +7,16 @@
     <title>Document</title>
 </head>
 <body>
-    
+  <?php
+    funtion add(a, b){
+      return a + b;
+    }
+    function sub(a, b){
+      return a - b;
+    }
+    function mul(a, b){
+      return a * b;
+    }
+  ?>
 </body>
 </html>
