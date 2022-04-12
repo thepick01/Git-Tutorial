@@ -21,8 +21,5 @@
       return a - b;  //주석
     }
   ?>
-
-test01
-
 </body>
 </html>
